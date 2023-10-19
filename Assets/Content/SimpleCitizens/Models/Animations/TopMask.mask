@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TopMask
+  m_Mask: 00000000000000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Base_mesh
+    m_Weight: 0
+  - m_Path: Biker_mesh
+    m_Weight: 0
+  - m_Path: Cap_mesh
+    m_Weight: 0
+  - m_Path: Cheerleader_mesh
+    m_Weight: 0
+  - m_Path: Clown_mesh
+    m_Weight: 0
+  - m_Path: Emo_mesh
+    m_Weight: 0
+  - m_Path: Footballer_mesh
+    m_Weight: 0
+  - m_Path: Grandma_mesh
+    m_Weight: 0
+  - m_Path: Hair_mesh
+    m_Weight: 0
+  - m_Path: Hippie_mesh
+    m_Weight: 0
+  - m_Path: Luchador_mesh
+    m_Weight: 0
+  - m_Path: Mountie_mesh
+    m_Weight: 0
+  - m_Path: Root_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Hips_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt/Spine_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/Head_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/Head_jnt/Hat_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/UpperArm_Left_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/UpperArm_Left_jnt/LowerArm_Left_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/UpperArm_Left_jnt/LowerArm_Left_jnt/Hand_Left_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/UpperArm_Right_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/UpperArm_Right_jnt/LowerArm_Right_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/UpperArm_Right_jnt/LowerArm_Right_jnt/Hand_Right_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/UpperLeg_Left_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Hips_jnt/UpperLeg_Left_jnt/LowerLeg_Left_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/UpperLeg_Left_jnt/LowerLeg_Left_jnt/Foot_Left_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/UpperLeg_Right_jnt
+    m_Weight: 0
+  - m_Path: Root_jnt/Hips_jnt/UpperLeg_Right_jnt/LowerLeg_Right_jnt
+    m_Weight: 1
+  - m_Path: Root_jnt/Hips_jnt/UpperLeg_Right_jnt/LowerLeg_Right_jnt/Foot_Right_jnt
+    m_Weight: 1
+  - m_Path: Runner_mesh
+    m_Weight: 0
+  - m_Path: ShopKeeper_mesh
+    m_Weight: 0
+  - m_Path: Tourist_mesh
+    m_Weight: 0
